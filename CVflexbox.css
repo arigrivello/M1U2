@@ -1,0 +1,21 @@
+.contenedor{
+    height: 200px;
+    
+    background-color: rgb(26, 56, 87);
+    display:flex;
+    align-items:flex-start;
+    /* align-items: stretch;/
+    /* align-items: baseline; */
+    align-items: center;
+    border: #918888
+}
+
+.item{
+    background-color: #ccc;
+    margin: 10px;
+    font-size:  20px;
+    width: 200px;
+    height: 100px;
+    font-family: lucida;
+    color: black;
+}
