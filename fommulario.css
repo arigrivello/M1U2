@@ -1,0 +1,16 @@
+h1{
+    margin-left: 50px;
+    background-color: orange;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: dashed;
+    color: rgb(24, 24, 114);
+    
+}
+h2{
+    color: rgb(24, 24, 114);
+    background-color: orange;
+    margin-left: 50px;
+    
+}
+

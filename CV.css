@@ -5,5 +5,53 @@ body {
     background-color:rgb(211, 216, 216);
 }
 
+h1{
+    color: blue;
+}
+.contenedor{
+    height: 200px;
+    width: 1200px;
+    background: #161738;
+    display:flex;
+    align-items:flex-start;
+    /* align-items: stretch;*/
+    /* align-items: baseline; */
+    /*aling-items:center*/
+    align-items: center;
+}
+
+.item{
+    background-color: #ccc;
+    margin: 10px;
+    font-size:  20px;
+    width: 200px;
+    height: 100px;
+    font-family: lucida;
+    color: black;
+}
+h3{
+    color: rgb(55, 0, 255);
+}
+
+.verde{
+    background-color: black;
+    color: green;
+    font-size: 20px;
+    font-style: italic;
+    text-transform: uppercase;
+    height: 300;
+    width: 500;
+    margin: 50;
+}
+.naranja{
+    background-color: orangered;
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+}
+
+
+
+
 
 

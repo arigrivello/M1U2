@@ -1,3 +1,13 @@
+h4{
+    color:rgb(43, 43, 88);
+    font-family: verdana;
+    margin-left: 30px;
+    background-color:rgb(211, 216, 216);
+}
+
+h1{
+    color: blue;
+}
 .contenedor{
     height: 200px;
     width: 1200px;
@@ -18,5 +28,9 @@
     height: 100px;
     font-family: lucida;
     color: black;
+}
+h3{
+    color: red;
+
 }
 
